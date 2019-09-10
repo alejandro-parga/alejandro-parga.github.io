@@ -65,6 +65,12 @@ translate this knowledge into concrete applications that potentiate brain-comput
   clear: both;
   display: table;
 }
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
 </style>
 
 <!--
