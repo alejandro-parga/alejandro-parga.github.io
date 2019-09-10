@@ -36,7 +36,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
 }
 
 .container:hover .overlay {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .text {
