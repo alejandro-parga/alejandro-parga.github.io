@@ -29,14 +29,14 @@ translate this knowledge into concrete applications that potentiate brain-comput
   left: 0;
   right: 0;
   height: 100%;
-  width: 90%;
+  width: 100%;
   opacity: 0;
   transition: .5s ease;
   background-color:  #78C2AD;
 }
 
 .container:hover .overlay {
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 .text {
