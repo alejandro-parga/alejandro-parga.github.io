@@ -29,7 +29,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
   left: 0;
   right: 0;
   height: 100%;
-  width: 100%;
+  width: 90%;
   opacity: 0;
   transition: .5s ease;
   background-color:  #78C2AD;
@@ -52,7 +52,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
 .column {
   float: left;
   width: 33.33%;
-  padding: 0px;
+  padding: 5px;
 }
 
 /* Clear floats after image containers */
