@@ -2,7 +2,7 @@
 layout: page
 title: Alejandro Parga MD PhD
 ---
-X
+
 As a neuro-electrophysiologist with medical training and advanced research skills in laboratory methods and
 computational analysis, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in
 functional brain disorders. In my research, I bring together microscopy and electrophysiological tools to
