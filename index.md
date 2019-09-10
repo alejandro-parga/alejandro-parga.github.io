@@ -10,6 +10,19 @@ investigate perception. My strengths are in the interpretation of neuro-anatomic
 involved in neuronal circuits. My goal is to decode the neuronal informational flow that creates the mind and
 translate this knowledge into concrete applications that potentiate brain-computer interface technology.
 
+
+<div class="w3-third">
+  <div class="w3-card">
+    <a href="/pages/project1.html">
+      <img src="/content/images/p1.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
+    </a>
+    <div class="w3-container">
+      <h4>Monterosso</h4>
+    </div>
+  </div>
+</div>
+
+<!--
 <div class="row"> 
   <div class="column">
     <a href="/pages/project1.html">
@@ -28,3 +41,4 @@ translate this knowledge into concrete applications that potentiate brain-comput
     </div>
 </div>
 
+-->
