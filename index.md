@@ -13,10 +13,12 @@ translate this knowledge into concrete applications that potentiate brain-comput
 
 <div class="w3-third">
   <div class="w3-card">
+    <div class="w3-display-container">
     <a href="/pages/project1.html">
       <img src="/content/images/p1.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
     </a>
     <div class="w3-display-middle w3-large">Middle</div>
+      </div/
   </div>
 </div>
 
