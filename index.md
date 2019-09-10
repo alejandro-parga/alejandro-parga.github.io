@@ -80,15 +80,15 @@ translate this knowledge into concrete applications that potentiate brain-comput
     	</div>
   	  </div>
    </div>
-  <div class="column">
-    <a href="/pages/project2.html" title="Cortical Spreading Depression">
+  <div class="column"> 
       <div class="container">
         <img src="/content/images/p2.png" class="img-responsive" style="max-width:100%;height:auto;">
-    	  <div class="overlay">
+    	  <a href="/pages/project2.html" title="Cortical Spreading Depression">
+        <div class="overlay">
     		  <div class="text">Cortical Spreading Depression</div>
     	  </div>
+        </a>
   	  </div>
-    </a>
   </div>
   <div class="column">
     <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
