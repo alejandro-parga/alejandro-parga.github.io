@@ -45,11 +45,17 @@ translate this knowledge into concrete applications that potentiate brain-comput
   <div class="column">
     <a href="/pages/project2.html" title="Cortical Spreading Depression">
       <img src="/content/images/p2.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
+      <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
+        Cortical Spreading Depression
+      </div>
     </a>
     </div> 
   <div class="column">
     <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
       <img src="/content/images/p3.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
+      <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
+        Neurogenesis and Tonic Inhibition
+      </div>
     </a>
     </div>
 </div>
