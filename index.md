@@ -52,7 +52,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 0px;
 }
 
 /* Clear floats after image containers */
