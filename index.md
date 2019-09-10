@@ -13,7 +13,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
 <style>
 .container {
   position: relative;
-  width: 50%;
+  width: 100%;
 }
 
 .image {
@@ -48,66 +48,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-</style>
 
-<div class="row"> 
-  <div class="column">
-    <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
-      <img src="/content/images/p1.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
-      <div class="overlay">
-        <div class="text">Tracing Neuronal Circuits</div>
-      </div>
-    </a>
-    </div>
-  <div class="column">
-    <a href="/pages/project2.html" title="Cortical Spreading Depression">
-      <img src="/content/images/p2.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
-      <div class="overlay">
-        <div class="text">Cortical Spreading Depression</div>
-      </div>
-    </a>
-    </div> 
-  <div class="column">
-    <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
-      <img src="/content/images/p3.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
-      <div class="overlay">
-        <div class="text">Neurogenesis and Tonic Inhibition</div>
-      </div>
-    </a>
-    </div>
-</div>
-
-
-<!-- THIS WORKS!!!
-<div class="row"> 
-  <div class="column">
-    <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
-      <img src="/content/images/p1.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
-      <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-        Tracing Neuronal Circuits
-      </div>
-    </a>
-    </div>
-  <div class="column">
-    <a href="/pages/project2.html" title="Cortical Spreading Depression">
-      <img src="/content/images/p2.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
-      <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-        Cortical Spreading Depression
-      </div>
-    </a>
-    </div> 
-  <div class="column">
-    <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
-      <img src="/content/images/p3.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
-      <div class="w3-display-bottomleft w3-container w3-padding-16 w3-black">
-        Neurogenesis and Tonic Inhibition
-      </div>
-    </a>
-    </div>
-</div>
--->
-<style>
-  /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
   width: 33.33%;
@@ -127,4 +68,40 @@ translate this knowledge into concrete applications that potentiate brain-comput
   }
 }
 </style>
--->
+</head>
+<body>
+
+<h2>Fade in Overlay</h2>
+
+<div class="row"> 
+  <div class="column">
+  	<div class="container">
+    	<a href="/pages/project1.html" title="Tracing Neuronal Circuits">
+        <img src="/content/images/p1.png" class="img-responsive" style="max-width:100%;height:auto;">
+      </a>
+    	<div class="overlay">
+    		<div class="text">Tracing Neuronal Circuits</div>
+    	</div>
+  	</div>
+   </div>
+  <div class="column">
+  	<div class="container">
+    	<a href="/pages/project2.html" title="Cortical Spreading Depression">
+        <img src="/content/images/p2.png" class="img-responsive" style="max-width:100%;height:auto;">
+      </a>
+    	<div class="overlay">
+    		<div class="text">Cortical Spreading Depression</div>
+    	</div>
+  	</div> 
+  </div>
+  <div class="column">
+  	<div class="container">
+    	<a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
+        <img src="/content/images/p3.png" class="img-responsive" style="max-width:100%;height:auto;">
+      </a>
+    	<div class="overlay">
+   	 		<div class="text">Neurogenesis and Tonic Inhibition</div>
+    	</div>
+   	</div>
+   </div>
+</div>
