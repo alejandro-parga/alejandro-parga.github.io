@@ -3,7 +3,7 @@ layout: page
 title: Alejandro Parga MD PhD
 ---
 
-X As a neuro-electrophysiologist with medical training and advanced research skills in laboratory methods and
+As a neuro-electrophysiologist with medical training and advanced research skills in laboratory methods and
 computational analysis, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in
 functional brain disorders. In my research, I bring together microscopy and electrophysiological tools to
 investigate perception. My strengths are in the interpretation of neuro-anatomical studies and the cell biology
@@ -35,17 +35,17 @@ translate this knowledge into concrete applications that potentiate brain-comput
 
 <div class="row"> 
   <div class="column">
-    <a href="/pages/project1.html">
+    <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
       <img src="/content/images/p1.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
     </a>
     </div>
   <div class="column">
-    <a href="/pages/project2.html">
+    <a href="/pages/project2.html" title="Cortical Spreading Depression">
       <img src="/content/images/p2.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
     </a>
     </div> 
   <div class="column">
-    <a href="/pages/project3.html">
+    <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
       <img src="/content/images/p3.png" class="img-responsive w3-hover-opacity" style="max-width:100%;height:auto;">
     </a>
     </div>
