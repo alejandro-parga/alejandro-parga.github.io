@@ -71,33 +71,33 @@ translate this knowledge into concrete applications that potentiate brain-comput
 
 <div class="row"> 
   <div class="column">
-  	<div class="container">
-    	<a href="/pages/project1.html" title="Tracing Neuronal Circuits">
+    <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
+  	  <div class="container">
         <img src="/content/images/p1.png" class="img-responsive" style="max-width:100%;height:auto;">
-      </a>
     	<div class="overlay">
     		<div class="text">Tracing Neuronal Circuits</div>
     	</div>
-  	</div>
+  	  </div>
+    </a>
    </div>
   <div class="column">
-  	<div class="container">
-    	<a href="/pages/project2.html" title="Cortical Spreading Depression">
+    <a href="/pages/project2.html" title="Cortical Spreading Depression">
+      <div class="container">
         <img src="/content/images/p2.png" class="img-responsive" style="max-width:100%;height:auto;">
-      </a>
-    	<div class="overlay">
-    		<div class="text">Cortical Spreading Depression</div>
-    	</div>
-  	</div> 
+    	  <div class="overlay">
+    		  <div class="text">Cortical Spreading Depression</div>
+    	  </div>
+  	  </div>
+    </a>
   </div>
   <div class="column">
-  	<div class="container">
-    	<a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
+    <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
+    	<div class="container">
         <img src="/content/images/p3.png" class="img-responsive" style="max-width:100%;height:auto;">
-      </a>
-    	<div class="overlay">
-   	 		<div class="text">Neurogenesis and Tonic Inhibition</div>
-    	</div>
-   	</div>
+    	  <div class="overlay">
+   	 		  <div class="text">Neurogenesis and Tonic Inhibition</div>
+    	  </div>
+   	  </div>
+    </a>
    </div>
 </div>
