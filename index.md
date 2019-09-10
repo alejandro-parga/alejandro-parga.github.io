@@ -68,10 +68,6 @@ translate this knowledge into concrete applications that potentiate brain-comput
   }
 }
 </style>
-</head>
-<body>
-
-<h2>Fade in Overlay</h2>
 
 <div class="row"> 
   <div class="column">
