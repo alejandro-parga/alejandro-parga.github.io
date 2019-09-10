@@ -36,7 +36,7 @@ translate this knowledge into concrete applications that potentiate brain-comput
 }
 
 .container:hover .overlay {
-  opacity: 1;
+  opacity: 0.5;
 }
 
 .text {
@@ -71,14 +71,14 @@ translate this knowledge into concrete applications that potentiate brain-comput
 
 <div class="row"> 
   <div class="column">
-    <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
   	  <div class="container">
         <img src="/content/images/p1.png" class="img-responsive" style="max-width:100%;height:auto;">
     	<div class="overlay">
+        <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
     		<div class="text">Tracing Neuronal Circuits</div>
+        </a>
     	</div>
   	  </div>
-    </a>
    </div>
   <div class="column">
     <a href="/pages/project2.html" title="Cortical Spreading Depression">
