@@ -3,12 +3,7 @@ layout: page
 title: Alejandro Parga MD PhD
 ---
 
-As a neuro-electrophysiologist with medical training and advanced research skills in laboratory methods and
-computational analysis, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in
-functional brain disorders. In my research, I bring together microscopy and electrophysiological tools to
-investigate perception. My strengths are in the interpretation of neuro-anatomical studies and the cell biology
-involved in neuronal circuits. My goal is to decode the neuronal informational flow that creates the mind and
-translate this knowledge into concrete applications that potentiate brain-computer interface technology.
+As a neuro-electrophysiologist with medical training and advanced research skills in in/ex-vivo recordings and opoto/chemogenetics, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in functional brain disorders. In my research, I bring together electrophysiological tools to investigate the function of neuronal networks. My strengths are in the interpretation of neuro-anatomical studies and the biophysics involved in hippocampal neuronal circuits. My goal is to understand the function of neuronal ensembles that is relevant to cognitive function and translate this knowledge into concrete applications that potentiate technology to modulate neuronal networks.
 
 <style>
 .container {
@@ -83,19 +78,19 @@ translate this knowledge into concrete applications that potentiate brain-comput
   <div class="column"> 
       <div class="container">
         <img src="/content/images/p2.png" class="img-responsive" style="max-width:100%;height:auto;">
-    	  <a href="/pages/project2.html" title="Cortical Spreading Depression">
+    	  <a href="/pages/project2.html" title="Opto/Chemogenetics and Cortical Spreading Depression">
         <div class="overlay">
-    		  <div class="text">Cortical Spreading Depression</div>
+    		  <div class="text">Opto/Chemogenetics and Cortical Spreading Depression</div>
     	  </div>
         </a>
   	  </div>
   </div>
   <div class="column">
-    <a href="/pages/project3.html" title="Neurogenesis and Tonic Inhibition">
+    <a href="/pages/project3.html" title="Tonic Inhibition and Traumatic Brain Injury">
     	<div class="container">
         <img src="/content/images/p3.png" class="img-responsive" style="max-width:100%;height:auto;">
     	  <div class="overlay">
-   	 		  <div class="text">Neurogenesis and Tonic Inhibition</div>
+   	 		  <div class="text">Tonic Inhibition and Traumatic Brain Injury</div>
     	  </div>
    	  </div>
     </a>
