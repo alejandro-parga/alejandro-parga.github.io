@@ -67,7 +67,7 @@ As a neuro-electrophysiologist with medical training and advanced research skill
 <div class="row"> 
   <div class="column">
   	  <div class="container">
-        <img src="/content/images/p1.png" class="img-responsive" style="max-width:auto;height:200px;">
+        <img src="/content/images/p1.png" class="img-responsive" style="max-width:auto;height:100px;">
     	<div class="overlay">
         <a href="/pages/project1.html" title="Tracing Neuronal Circuits">
     		<div class="text">Tracing Neuronal Circuits</div>
@@ -77,7 +77,7 @@ As a neuro-electrophysiologist with medical training and advanced research skill
    </div>
   <div class="column"> 
       <div class="container">
-        <img src="/content/images/p2.png" class="img-responsive" style="max-width:auto;height:200px;">
+        <img src="/content/images/p2.png" class="img-responsive" style="max-width:auto;height:100px;">
     	  <a href="/pages/project2.html" title="Opto/Chemogenetics">
         <div class="overlay">
     		  <div class="text">Opto/Chemogenetics</div>
@@ -88,7 +88,7 @@ As a neuro-electrophysiologist with medical training and advanced research skill
   <div class="column">
     <a href="/pages/project3.html" title="Electrophysiology">
     	<div class="container">
-        <img src="/content/images/p3.png" class="img-responsive" style="max-width:auto;height:200px;">
+        <img src="/content/images/p3.png" class="img-responsive" style="max-width:auto;height:100px;">
     	  <div class="overlay">
    	 		  <div class="text">Electrophysiology</div>
     	  </div>
