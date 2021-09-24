@@ -78,19 +78,19 @@ As a neuro-electrophysiologist with medical training and advanced research skill
   <div class="column"> 
       <div class="container">
         <img src="/content/images/p2.png" class="img-responsive" style="max-width:100%;height:auto;">
-    	  <a href="/pages/project2.html" title="Opto/Chemogenetics and Cortical Spreading Depression">
+    	  <a href="/pages/project2.html" title="Opto/Chemogenetics">
         <div class="overlay">
-    		  <div class="text">Opto/Chemogenetics and Cortical Spreading Depression</div>
+    		  <div class="text">Opto/Chemogenetics</div>
     	  </div>
         </a>
   	  </div>
   </div>
   <div class="column">
-    <a href="/pages/project3.html" title="Tonic Inhibition and Traumatic Brain Injury">
+    <a href="/pages/project3.html" title="Electrophysiology">
     	<div class="container">
         <img src="/content/images/p3.png" class="img-responsive" style="max-width:100%;height:auto;">
     	  <div class="overlay">
-   	 		  <div class="text">Tonic Inhibition and Traumatic Brain Injury</div>
+   	 		  <div class="text">Electrophysiology</div>
     	  </div>
    	  </div>
     </a>
