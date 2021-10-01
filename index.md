@@ -88,7 +88,7 @@ As a neuro-electrophysiologist with medical training and advanced research skill
   <div class="column">
     <a href="/pages/project3.html" title="Electrophysiology">
     	<div class="container">
-        <img src="/content/images/p3.png" class="img-responsive" style="max-width:auto;height:150px;">
+        <img src="/content/images/p3.png" class="img-responsive" style="max-width:auto;height:auto;">
     	  <div class="overlay">
    	 		  <div class="text">Electrophysiology</div>
     	  </div>
