@@ -2,10 +2,10 @@
 layout: page
 ---
 <center>
-<video width="80%" autoplay loop>
-  <source src="content/images/v2.webm" type="video/webm"/>
+<video width="80%" autoplay loop> 
   <source src="content/images/v2.ogg" type="video/ogg"/>
   <source src="content/images/v2.m4v" type="video/mp4"/>
+  <source src="content/images/v2.webm" type="video/webm"/>
 Your browser does not support the video tag.
 </video>
 </center>  
