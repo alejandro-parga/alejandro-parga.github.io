@@ -2,7 +2,7 @@
 layout: page
 ---
 <video width="320" height="240" autoplay>
-  <source src="content/v2.m4v" type="video/mp4">
+  <source src="content/images/v2.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
