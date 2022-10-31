@@ -11,7 +11,7 @@ Your browser does not support the video tag.
 </center>  
 <br>
 **Research Summary**<br>
-As a neuro-electrophysiologist with medical training and advanced research skills in in/ex-vivo recordings and opoto/chemogenetics, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in functional brain disorders. In my research, I bring together electrophysiological tools to investigate the function of neuronal networks. My strengths are in the interpretation of neuro-anatomical studies and the biophysics involved in neuronal circuits. My goal is to understand the function of neuronal ensembles that is relevant to cognitive function and translate this knowledge into concrete applications that potentiate technology to modulate neuronal networks.
+As a neuroelectrophysiologist with medical training and advanced research skills in in/ex-vivo recordings and opoto/chemogenetics, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in functional brain disorders. In my research, I bring together electrophysiological tools to investigate the function of neuronal networks. My strengths are in the interpretation of neuro-anatomical studies and the biophysics involved in neuronal circuits. My goal is to understand the function of neuronal ensembles that is relevant to cognitive function and translate this knowledge into concrete applications that potentiate technology to modulate neuronal networks.
 
 <style>
 .container {
