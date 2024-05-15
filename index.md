@@ -11,7 +11,7 @@ Your browser does not support the video tag.
 </center>  
 <br>
 **Research Summary**<br>
-As a neurophysiologist with medical training and advanced research skills in in/ex-vivo recordings and opoto/chemogenetics, I am an expert on the synaptic plasticity of neuronal circuits and their alterations in functional brain disorders. In my research, I bring together electrophysiological tools to investigate the function of neuronal networks. My strengths are in the interpretation of neuro-anatomical studies and the biophysics involved in neuronal circuits. My goal is to understand the function of neuronal ensembles that is relevant to cognitive function and translate this knowledge into concrete applications that potentiate technology to modulate neuronal networks.
+Experienced neurophysiologist with a robust background in trauma medicine and a high level of expertise in clinical and experimental methodologies, including vector interventions and opto/chemogenetics. Recognized for leadership in coordinating complex research initiatives aimed at influencing brain function. Skilled in integrating neuroanatomical, electrophysiological, and multiomics approaches to decipher neuronal circuitry. Proficient in guiding multidisciplinary teams in neuroscience, with a focus on understanding the biophysical underpinnings of neuronal networks. Committed to uncovering the mechanisms of cognitive processes through the study of neuronal ensembles and applying this knowledge to drive technological advancements for cognitive enhancement.
 
 <style>
 .container {
