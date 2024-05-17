@@ -11,7 +11,7 @@ Your browser does not support the video tag.
 </center>  
 <br>
 **Research Summary**<br>
-Experienced neurophysiologist with a robust background in trauma medicine and a high level of expertise in clinical and experimental methodologies, including vector interventions and opto/chemogenetics. Recognized for leadership in coordinating complex research initiatives aimed at influencing brain function. Skilled in integrating neuroanatomical, electrophysiological, and multiomics approaches to decipher neuronal circuitry. Proficient in guiding multidisciplinary teams in neuroscience, with a focus on understanding the biophysical underpinnings of neuronal networks. Committed to uncovering the mechanisms of cognitive processes through the study of neuronal ensembles and applying this knowledge to drive technological advancements for cognitive enhancement.
+In my research, I integrate neurophysiological, anatomical, and multiomics approaches to investigate the intricate functions of neuronal networks. I excel in orchestrating clinical and research projects, leveraging my experience in both academic and industry settings. My primary objective is to unravel the complexities of neuronal ensembles and their implications for cognitive functions. By elucidating these mechanisms, I aim to translate this knowledge into tangible applications, harnessing advanced technologies to modulate neuronal networks.
 
 <style>
 .container {
